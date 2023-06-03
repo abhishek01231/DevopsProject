@@ -20,7 +20,7 @@ pipeline {
 
       steps {
 
-        sh 'docker build -t abhishek01231/jenkins-docker-hub .'
+        sh 'docker build -t abhishek01231/jenkins-docker-hub'
 
       }
 
